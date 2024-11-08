@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sprint Cuatro</string>
+
+    <string name="textActivity1">YELLOWSTONE</string>
+    <string name="textActivity2">NOVIEMBRE 2024</string>
+    <string name="textBotonAbrir">Abrir</string>
+    <string name="textBotonWeb">WebSite</string>
+    <string name="textBotonAtras">Volver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
